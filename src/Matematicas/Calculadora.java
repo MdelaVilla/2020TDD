@@ -10,5 +10,13 @@ package Matematicas;
  * @author usuario
  */
 public class Calculadora {
+
+    public static int suma(int a, int b) {
+        return 8;
+    }
+
+    public static int resta(int a, int b) {
+        return 8;
+    }
     
 }

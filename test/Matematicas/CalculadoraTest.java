@@ -32,6 +32,7 @@ public class CalculadoraTest {
         int total=8;
         int sum = Calculadora.suma (5, 3);
         assertEquals(sum, 8);    }
+    
      @Test
     public void testResta() {
         int total=8;
@@ -39,5 +40,4 @@ public class CalculadoraTest {
         assertEquals(res, total);    }
     }
     
-    
-}
+   
